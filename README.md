@@ -125,9 +125,8 @@ tic-tac-toe/
 ├── index.html          # Main game page
 ├── style.css           # All styles — themes, layout, animations
 ├── script.js           # Game logic, AI (Minimax), sound & score management
-├── favicon.ico         # Site favicon
-│
-└── assets/             # Images, audio, and other static assets
+├── assets/             # Images, audio, and other static assets
+      ├── favicon.ico   # Site favicon
 ```
 
 ---
