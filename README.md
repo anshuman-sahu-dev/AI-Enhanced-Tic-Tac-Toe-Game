@@ -2,7 +2,7 @@
 
 > *Classic Tic-Tac-Toe reimagined with an AI opponent. Can you outsmart the machine?*
 
-<div align="center">
+<div>
   <img src="assets/Tic-Tac-Toe.svg" alt="Tic-Tac-Toe Banner" width="20%"/>
 </div>
 
