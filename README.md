@@ -122,11 +122,12 @@ Whether you want to challenge a friend or test your skills against an unbeatable
 ```
 tic-tac-toe/
 │
-├── index.html          # Main game page
-├── style.css           # All styles — themes, layout, animations
-├── script.js           # Game logic, AI (Minimax), sound & score management
-├── assets/             # Images, audio, and other static assets
-      ├── favicon.ico   # Site favicon
+├── index.html                  # Main game page
+├── style.css                   # All styles — themes, layout, animations
+├── script.js                   # Game logic, AI (Minimax), sound & score management
+├── assets/                     # Images, audio, and other static assets
+     ├── favicon.ico            # Site favicon
+     ├── Tic-Tac-Toe poster     # Game Poster
 ```
 
 ---
