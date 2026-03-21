@@ -191,8 +191,8 @@ Building this project helped practice and reinforce:
 
 ---
 
-📧 **Email:** anshumansahu2306@gmail.com
-📞 **Phone:** +91 7854939308
+📧 **Email:** toanshumansahu@gmail.com
+📞 **Phone:** +91 78549 39308
 
 ---
 
