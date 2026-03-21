@@ -35,7 +35,7 @@ Whether you want to challenge a friend or test your skills against an unbeatable
 
 ## 🌐 Live Demo
 
-🔗 **[https://tic-tac-toe-game-nine-fawn.vercel.app/](https://tic-tac-toe-game-nine-fawn.vercel.app/)**
+🔗 **[https://tic-tac-toe-game-nine-fawn.vercel.app/](https://ai-enhanced-tic-tac-toe-game.vercel.app/)**
 
 ---
 
