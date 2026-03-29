@@ -189,7 +189,10 @@ For any queries, feedback, or collaboration:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anshuman_Sahu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshuman-sahu-371a6535b/) <br>
 [![Location](https://img.shields.io/badge/Location-Brahmapur,_Odisha,_India-FF5722?style=for-the-badge&logo=googlemaps&logoColor=white)](#) <br>
 
----
+## 📜 License
+
+© 2026 **WanderFramez\_**. All rights reserved.
+
 ## 👨‍💻 Developer
 
 <div align="center">
@@ -202,8 +205,9 @@ For any queries, feedback, or collaboration:
 
 ---
 
-📧 **Email:** toanshumansahu@gmail.com
-📞 **Phone:** +91 78549 39308
+[![Email](https://img.shields.io/badge/Email-toanshumansahu@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toanshumansahu@gmail.com) <br>
+[![Phone](https://img.shields.io/badge/Phone-+91_78549_39308-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917854939308) <br>
+
 
 ---
 
