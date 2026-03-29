@@ -189,9 +189,15 @@ For any queries, feedback, or collaboration:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anshuman_Sahu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshuman-sahu-371a6535b/) <br>
 [![Location](https://img.shields.io/badge/Location-Brahmapur,_Odisha,_India-FF5722?style=for-the-badge&logo=googlemaps&logoColor=white)](#) <br>
 
-## 📜 License
+## 📄 License
 
-© 2026 **WanderFramez\_**. All rights reserved.
+<p align="center">This project is open for <strong>viewing and inspiration.</strong> Please do not <strong>copy or redistribute</strong> the design or content <strong>without permission.</strong></p>
+
+<p align="center">© 2026 <strong>WanderFramez_</strong>. All rights reserved.</p>
+
+---
+
+<p align="center">Designed & Built by <strong>Anshuman Sahu</strong> · Deployed on <a href="https://vercel.com">Vercel</a></p>
 
 ## 👨‍💻 Developer
 
